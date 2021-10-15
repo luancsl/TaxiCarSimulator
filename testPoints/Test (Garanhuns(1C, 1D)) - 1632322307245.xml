@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <clients>
+        <id>C0</id>
+        <lat>-8.888692473489595</lat>
+        <lng>-36.493278044214655</lng>
+        <isDriver>false</isDriver>
+    </clients>
+    <drivers>
+        <id>D0</id>
+        <lat>-8.88653006979983</lat>
+        <lng>-36.48598243569415</lng>
+        <isDriver>true</isDriver>
+    </drivers>
+</data>

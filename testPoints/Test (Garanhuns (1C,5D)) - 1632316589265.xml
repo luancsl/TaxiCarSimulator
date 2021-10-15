@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <clients>
+        <id>C0</id>
+        <lat>-8.886186605120427</lat>
+        <lng>-36.49563838814776</lng>
+        <isDriver>false</isDriver>
+    </clients>
+    <drivers>
+        <id>D4</id>
+        <lat>-8.886398606245109</lat>
+        <lng>-36.506753462305475</lng>
+        <isDriver>true</isDriver>
+    </drivers>
+    <drivers>
+        <id>D3</id>
+        <lat>-8.878978493926274</lat>
+        <lng>-36.50332023476641</lng>
+        <isDriver>true</isDriver>
+    </drivers>
+    <drivers>
+        <id>D2</id>
+        <lat>-8.884363390385703</lat>
+        <lng>-36.478558081140925</lng>
+        <isDriver>true</isDriver>
+    </drivers>
+    <drivers>
+        <id>D1</id>
+        <lat>-8.889536208548911</lat>
+        <lng>-36.484823721399714</lng>
+        <isDriver>true</isDriver>
+    </drivers>
+    <drivers>
+        <id>D0</id>
+        <lat>-8.895217744322375</lat>
+        <lng>-36.49645377968829</lng>
+        <isDriver>true</isDriver>
+    </drivers>
+</data>
